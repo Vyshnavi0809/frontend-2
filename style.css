@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.container{
+    width: 600px;
+    margin: 40px auto;
+    padding: 25px;
+    background: white;
+    border: 2px solid black;
+}
+
+h1{
+    margin-bottom: 5px;
+}
+
+h2{
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+p{
+    margin: 3px 0;
+}
